@@ -8,6 +8,8 @@ h = fg("#DDA0DD	")
 reset = attr("reset")
 clear = lambda: os.system('cls') if os.name == 'nt' else os.system('clear')
 
+clear()
+
 logo = f"""
 
         █████  ██████   ██████  ██    ██ ████████    ███    ███ ███████ 
