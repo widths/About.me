@@ -36,7 +36,3 @@ def check():
 
 
 check()
-
-
-
-
